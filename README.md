@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'am Aman 👋
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React JS**
 - 💬 Ask me about any Tools or Languages that I use
 - 😄 Pronouns: He/His
 
