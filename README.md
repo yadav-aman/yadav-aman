@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi there, I'am Aman 👋
 
-- 🌱 I’m currently learning **Assembly**
+- 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about any Tools or Languages that I use
-- 😄 Pronouns: He/His
 
 ---
 ### 📫 How to reach me 🔗:
