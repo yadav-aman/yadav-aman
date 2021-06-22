@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <code><img alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ### Github Stats
-<a href="https://github.com/amanyadav222">
+<a href="https://github.com/yadav-aman">
   <!-- <img align="left" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-aman&theme=light&hide_langs_below=1" /> -->
   <img align="left" alt="githubStats" src = "https://github-readme-stats.vercel.app/api?username=yadav-aman&show_icons=true&hide_border=true" />
 </a>
