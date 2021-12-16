@@ -22,11 +22,15 @@ Here are some ideas to get you started:
 ---
 ### 📫 How to reach me 🔗:
 
+
 <!--
 <a href="https://www.linkedin.com/in/aman-yadav07/" target="_blank"><img align="left" alt="Aman Yadav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+[![Linkedin: aman-yadav07](https://img.shields.io/badge/-AmanYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-yadav07/)](https://www.linkedin.com/in/aman-yadav07/)
 -->
 
-[![Linkedin: aman-yadav07](https://img.shields.io/badge/-AmanYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-yadav07/)](https://www.linkedin.com/in/aman-yadav07/)
+<a href="https://bit.ly/linkedin-aman"><img src="https://img.shields.io/badge/Aman%20Yadav-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://bit.ly/portfolio-aman"><img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fyadav-aman.github.io%2F"></a>
+<a href="mailto:amansy04@gmail.com"><img src="https://img.shields.io/badge/-amansy04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 ---
 
