@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 ## Projects
 
 [![Food-Ez](https://github-readme-stats.vercel.app/api/pin/?username=yadav-aman&repo=food-ez)](https://github.com/yadav-aman/food-ez)
-[![E2EE-Secure-Chat](https://github-readme-stats.vercel.app/api/pin/?username=gssasank&repo=E2EE-Secure-Chat)](https://github.com/gssasank/E2EE-Secure-Chat)
+[![Ezly Server](https://github-readme-stats.vercel.app/api/pin/?username=yadav-aman&repo=ezly-server)](https://github.com/yadav-aman/ezly-server)
+[![Ezly Client](https://github-readme-stats.vercel.app/api/pin/?username=yadav-aman&repo=ezly-client)](https://github.com/yadav-aman/ezly-client)
 
 <!--
 ### Github Stats
