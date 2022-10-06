@@ -50,11 +50,13 @@ Here are some ideas to get you started:
 <code><img alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ---
+<!--
 ## Projects
 
 [![Food-Ez](https://github-readme-stats.vercel.app/api/pin/?username=yadav-aman&repo=food-ez)](https://github.com/yadav-aman/food-ez)
 [![Ezly Server](https://github-readme-stats.vercel.app/api/pin/?username=yadav-aman&repo=ezly-server)](https://github.com/yadav-aman/ezly-server)
 [![Ezly Client](https://github-readme-stats.vercel.app/api/pin/?username=yadav-aman&repo=ezly-client)](https://github.com/yadav-aman/ezly-client)
+-->
 
 <!--
 ### Github Stats
