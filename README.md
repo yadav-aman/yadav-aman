@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <a href="https://bit.ly/portfolio-aman"><img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fyadav-aman.github.io%2F"></a>
 <a href="mailto:amansy04@gmail.com"><img src="https://img.shields.io/badge/-amansy04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
----
+<!-- --- -->
 
-### Tools and Languages:
+<!-- ### Tools and Languages:
 <code><img alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" /></code>
 <code><img alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></code>
 <code><img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <code><img alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></code>
 <code><img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
 
 ---
 <!--
@@ -58,12 +58,20 @@ Here are some ideas to get you started:
 [![Ezly Client](https://github-readme-stats.vercel.app/api/pin/?username=yadav-aman&repo=ezly-client)](https://github.com/yadav-aman/ezly-client)
 -->
 
-<!--
+
 ### Github Stats
-<a href="https://github.com/yadav-aman">
+<!-- <a href="https://github.com/yadav-aman">
    <img align="left" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-aman&theme=light&hide_langs_below=1" /> 
   <img align="left" alt="githubStats" src = "https://github-readme-stats.vercel.app/api?username=yadav-aman&show_icons=true&hide_border=true" />
   <img align = "center" height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yadav-aman&layout=compact&langs_count=8&theme=cobalt"/>
-</a>
--->
-  <!--- ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=yadav-aman&show_icons=true&hide_border=true) --->
+</a> -->
+
+<div>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yadav-aman&show_icons=true&hide_border=true&theme=dark"> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-aman&layout=compact&theme=dark&hide_border=true"> 
+</div>
+
+<!-- ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=yadav-aman&show_icons=true&hide_border=true&theme=dark) -->
+
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-aman&layout=compact&theme=dark&hide_border=true) -->
