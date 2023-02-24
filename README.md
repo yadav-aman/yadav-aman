@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github.com/yadav-aman/yadav-aman/blob/master/path40.png" alt="illustration" width=350px height=465px/>
 -->
 
-# Hi there, I'am Aman 👋
+# Hi there, I'm Aman 👋
 
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about any Tools or Languages that I use
