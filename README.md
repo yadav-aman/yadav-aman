@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Aman 👋
 
+- 🎓 **Computer Science** undergraduate at Shiv Nadar University
+- 🔑 Working with the Identity Access and Management team at Postman
 - 🌱 I’m currently learning **Web Development**
-- 💬 Ask me about any Tools or Languages that I use
+- 🚀 Started exploring AWS, Docker
+- ✨ Passionate about web development, especially in backend development, REST APIs, and security
 
 ---
 ### 📫 How to reach me 🔗:
@@ -66,12 +69,12 @@ Here are some ideas to get you started:
   <img align = "center" height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yadav-aman&layout=compact&langs_count=8&theme=cobalt"/>
 </a> -->
 
-<div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yadav-aman&show_icons=true&hide_border=true&theme=dark"> 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-aman&layout=compact&theme=dark&hide_border=true"> 
-</div>
+<!-- <div> -->
+<!--    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yadav-aman&show_icons=true&hide_border=true&theme=dark">  -->
+<!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-aman&layout=compact&theme=dark&hide_border=true">  -->
+<!-- </div> -->
 
-<!-- ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=yadav-aman&show_icons=true&hide_border=true&theme=dark) -->
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=yadav-aman&show_icons=true&hide_border=true&theme=dark)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-aman&layout=compact&theme=dark&hide_border=true) -->
