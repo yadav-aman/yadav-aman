@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <code><img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
 
----
+
 <!--
 ## Projects
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Github Stats
+<!--- ### Github Stats --->
 <!-- <a href="https://github.com/yadav-aman">
    <img align="left" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-aman&theme=light&hide_langs_below=1" /> 
   <img align="left" alt="githubStats" src = "https://github-readme-stats.vercel.app/api?username=yadav-aman&show_icons=true&hide_border=true" />
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-aman&layout=compact&theme=dark&hide_border=true">  -->
 <!-- </div> -->
 
-![Aman's github stats](https://github-readme-stats.vercel.app/api?username=yadav-aman&show_icons=true&hide_border=true&theme=dark)
+<!--- ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=yadav-aman&show_icons=true&hide_border=true&theme=dark) --->
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-aman&layout=compact&theme=dark&hide_border=true) -->
