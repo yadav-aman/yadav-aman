@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Aman 👋
 
-- 🎓 **Computer Science** undergraduate at Shiv Nadar University
+- 💻 **Software Engineer** at Postman
 - 🔑 Working with the Identity Access and Management team at Postman
 - 🌱 I’m currently learning **Web Development**
 - 🚀 Started exploring AWS, Docker
